@@ -23,7 +23,7 @@ You need to design a homepage is seen in the picture below.
 
 Do not make a responsive design.
 
-![HomePage](w2-vuejs-with-vuex/pictures/youtube-home.png)
+![HomePage](pictures/youtube-home.png)
 
 ## Favorite page
 
@@ -31,4 +31,4 @@ For the favorite page, You need to design a page as seen in the picture below.
 
 Favorite page should list the videos whose favorite field are set to true in the data.
 
-![HomePage](w2-vuejs-with-vuex/pictures/favorites-page.png)
+![HomePage](pictures/favorites-page.png)
